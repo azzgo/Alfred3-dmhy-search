@@ -25,4 +25,4 @@ $pip install --target=./lib -r requirement.txt
 
 ## TODO
 
-- [] 国内网络环境，添加配置代理功能
+- 国内网络环境，添加配置代理功能
