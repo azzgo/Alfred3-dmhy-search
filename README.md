@@ -1,4 +1,5 @@
-动漫花园查询
+# 动漫花园查询
+
 
 主要为了方便自己追番写的小工具
 
@@ -18,9 +19,9 @@ dmhy keyword
 
 # Development
 
-在开发目录
+在开发目录, 运行下面命令以便安装依赖
 ```
-$pip install --target=./lib -r requirement.txt
+$ pip install --target=./lib -r requirement.txt
 ```
 
 ## TODO
