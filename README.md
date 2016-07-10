@@ -4,9 +4,9 @@
 
 [DownLink](https://github.com/azzgo/Alfred3-dmhy-search/releases/latest)
 
-本地开发环境搭建
-
 # Usage
+
+!!此插件仅在Alfred3上有用
 
 trigger: dmhy
 
@@ -16,9 +16,13 @@ dmhy keyword
 
 使用`CMD`修饰键可以在浏览器打开相应项的详细页面
 
-# Perpare
+# Development
 
-开发目录
+在开发目录
 ```
 $pip install --target=./lib -r requirement.txt
 ```
+
+## TODO
+
+- [] 国内网络环境，添加配置代理功能
