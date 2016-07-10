@@ -21,7 +21,7 @@ dmhy keyword
 
 在开发目录
 ```
-$pip install --target=./lib -r requirement.txt
+$ pip install --target=./lib -r requirement.txt
 ```
 
 ## TODO
