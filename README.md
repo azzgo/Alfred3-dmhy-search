@@ -2,5 +2,23 @@
 
 主要为了方便自己追番写的小工具
 
-[下载链接](https://github.com/azzgo/Alfred3-dmhy-search/releases/latest)
+[DownLink](https://github.com/azzgo/Alfred3-dmhy-search/releases/latest)
 
+本地开发环境搭建
+
+# Usage
+
+trigger: dmhy
+
+dmhy keyword
+
+![sample](https://cloud.githubusercontent.com/assets/5636512/16714251/84b07032-46ef-11e6-824a-e58c1c2a8ebb.jpeg)
+
+使用`CMD`修饰键可以在浏览器打开相应项的详细页面
+
+# Perpare
+
+开发目录
+```
+$pip install --target=./lib -r requirement.txt
+```
