@@ -19,7 +19,7 @@ dmhy keyword
 
 # Development
 
-在开发目录
+在开发目录, 运行下面命令以便安装依赖
 ```
 $ pip install --target=./lib -r requirement.txt
 ```
