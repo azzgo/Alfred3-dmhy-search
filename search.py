@@ -41,4 +41,5 @@ def outputConventer(items):
   return json.dumps(output)
 
 if __name__ == '__main__':
-  print search("轉裁")
+  arg = sys.argv[1]
+  print search(arg)
