@@ -49,7 +49,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>动漫花园查询</string>
+	<string>动漫花园检索</string>
 	<key>objects</key>
 	<array>
 		<dict>
